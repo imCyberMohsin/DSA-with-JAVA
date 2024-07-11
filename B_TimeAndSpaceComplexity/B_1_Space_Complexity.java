@@ -7,7 +7,7 @@
 
 import java.util.*;
 
-public class A9_2_Space_Complexity {
+public class B_1_Space_Complexity {
     public static void main(String[] args) {
         // ? Example 1: Space Complexity
         Scanner sc = new Scanner(System.in);
