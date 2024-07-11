@@ -1,6 +1,11 @@
-//! Example Questions on Time Complexity
-// Take the Higher Digree when there is +
-// Ignore/avoid the constants(1,2,3...) and lower degrees
+//! Example Questions on Time Complexity For Practise
+
+//? Rules For Time Complexity:
+// 1. Always find the worst case time complexity (Big O).
+// 2. Avoid Constants (1, 2, 3)
+// 3. Avoid Lower Values
+// Take the higher degree when there is +
+
 
 //* Q1. f(n) -> 2n^2 + 3n
 // Here, 2n^2 have higher complexity

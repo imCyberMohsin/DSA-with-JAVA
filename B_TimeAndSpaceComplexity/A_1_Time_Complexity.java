@@ -1,13 +1,13 @@
 //! Time complexity:
-//* Time Complexity != Time Taken 
-//* Denination 1: It is the amount of computational time taken by a algorithm to run..   
-//* Defination 2: It is the rate at which the time taken by a program increases with respect to the input size. 
+//* Time Complexity != Time Taken (Because it depends on the system power)
+//* Defination 1: It is the rate at which the time taken by a program increases with respect to the input size
+//* Defination 2: It is the amount of computational time taken by a algorithm to run.
 //* Higher the input size, higher will be the time complexity.
 
 //? Why Time Complexity?
 // Industry Standard
 // For Making better programs with good execution time.
-// Comparion of algorithms, to check which algorithm is faster.
+// Comparion of algorithms, to check which algorithm is optimal and faster.
 
 //? Types of Time Complexity in a program:
 //   1) Best Case     -> Ω(1)        (Omega) | Lower Bound
@@ -49,7 +49,7 @@
 // O(1)             (Lowest Time Complexity)
 
 
-//! Rules For Time Complexity:
+//? Rules For Time Complexity:
 // 1. Always find the worst case time complexity (Big O).
 // 2. Avoid Constants
 // 3. Avoid Lower Values
