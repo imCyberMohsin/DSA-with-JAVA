@@ -1,6 +1,7 @@
 # DSA Roadmap For Beginners
 
 ## Mindset For DSA
+
 ```
 - Problem Solving
 - Logic Building
@@ -10,6 +11,7 @@
 ```
 
 ## Basics of Language : Java, JavaScript, C, C++
+
 ```
 - Variables
 - Constants
@@ -25,17 +27,20 @@
 ## Solve Common Basic & Pattern Printing Questions To Get Comfortable With The Syntax
 
 ## Time & Space Complexity
+
 ```
 Big O
     - Time Complexity
     - Space Complexity
     - Scalability
     - Rules & Graph
-    - Practise 
+    - Practise
 ```
 
 # Basic Data Structures (In Depth)
+
 ## Arrays
+
 ```
 - Array Basics
     * Dynamic vs Static Arrays
@@ -58,10 +63,10 @@ Big O
     * Sub Array
 - Basic Algorithms
     * Sorting Algorithms
-        - Bubble 
-        - Insertion 
-        - Selection 
-        - Merge 
+        - Bubble
+        - Insertion
+        - Selection
+        - Merge
         - Quick
     * Searching Algorithms
         - Linear Search
@@ -70,6 +75,7 @@ Big O
 ```
 
 ## Strings
+
 ```
 - Basics, Immutable Nature
 - Indexing, Iterating, Concatenation, Sub-String Extraction
@@ -79,6 +85,7 @@ Big O
 ```
 
 ## Linked List
+
 ```
 - Theory
     * Nodes & Pointers
@@ -92,7 +99,7 @@ Big O
     * Insertion, Deletion, Searching
 - Advanced Techniques
     * Two Pointers
-    * Reverse 
+    * Reverse
     * Merge & Split
 - Patterns
     * Detecting cycle
@@ -101,7 +108,8 @@ Big O
 # Leetcode Questions, Easy -> Medium
 ```
 
-## Stack 
+## Stack
+
 ```
 - Theory, LIFO
 - Basic Operations
@@ -112,6 +120,7 @@ Big O
 ```
 
 ## Queue
+
 ```
 - Theory, FIFO
 - Basic Operations
@@ -122,25 +131,35 @@ Big O
 - Balancing Symbol
 - Reverse A Queue
 - Thread-Safe Implementation(Not For Beginners)
-# Leetcode Questions, Easy -> Medium 
+# Leetcode Questions, Easy -> Medium
 ```
 
-------------------------------------------------
+---
+
 Tip! : Master Basic DSA Before Moving To Advanced DSA
+
 # Advanced Data Structures
+
 ## Trees
+
 ```
+
 ```
 
 ## Heaps
+
 ```
+
 ```
 
 ## Graphs
+
 ```
+
 ```
 
 ## Advanced Algorithms
+
 ```
 Dynamic
     - Overlapping Sub Problem
@@ -157,10 +176,12 @@ Others
 
 ## Recursion (Also searching & sorting using recursion)
 
--------------------------------------------------------
+---
+
 # Leetcode
 
 ## How To Use 'LeetCode' For Practise
+
 ```
 - Go to Problems section
 - Choose the topic to practise
@@ -171,6 +192,7 @@ Others
 ```
 
 ## How To Solve A Given Problem
+
 ```
 - Step 1: Read the problem question very carefully
 - Step 2: Think and create solution OR algorithm on paper (DryRun)
