@@ -3,7 +3,6 @@
 // Swap the minimum element with the first element of the unsorted array.
 /* 
     Eg: [13, 46, 24, 52, 20, 9]    
-
     Steps:
         Initial Array: [13, 46, 24, 52, 20, 9]
         
@@ -40,7 +39,7 @@ public class A_Selection_sort {
     // Selection Sort Algorithm
     public static int[] selectionSort(int arr[]) {
         // Outer loop to iterate over each element in the array except the last one
-        for (int i = 0; i <= arr.length - 2; i++) {
+        for (int i = 0; i < arr.length - 1; i++) {
             // Set the initial minimum index to the current position of the outer loop
             int minIndex = i;
 
@@ -75,6 +74,8 @@ public class A_Selection_sort {
 }
 
 // ? Worst & Best Time Complexity: O(n^2)
+// Due to its use of nested loops for sorting.
 
 // ? Time Complexity: O(n)
-// The algorithm sorts the array in place, requiring only a constant amount of additional space for the minIndex and temp variables.
+// The algorithm sorts the array in place, requiring only a constant amount of
+// additional space for the minIndex and temp variables.
