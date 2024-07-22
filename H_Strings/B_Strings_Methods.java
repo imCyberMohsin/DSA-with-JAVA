@@ -17,7 +17,7 @@ public class B_Strings_Methods {
         System.out.println("Length: " + (firstName.length() + lastName.length()));
 
         // 3. charAt(): returns the character at given index.
-        System.out.println("charAt [1]: " + firstName.charAt(1));
+        System.out.println("charAt [1]: " + firstName.charAt(0));
 
         // 4. compareTo(): compare two strings
         // s1 > s2 : +ve value

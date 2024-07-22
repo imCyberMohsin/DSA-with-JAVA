@@ -6,7 +6,7 @@ public class C_String_Builder {
 
         // Creating String Builder Object
         StringBuilder sb = new StringBuilder("Mohsin");
-        System.out.println(sb);
+        System.out.println("String = " + sb);
 
         // charAt index 0
         System.out.println("Index[0] = " + sb.charAt(0));
