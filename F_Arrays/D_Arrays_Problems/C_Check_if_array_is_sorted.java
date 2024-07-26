@@ -1,4 +1,10 @@
 //! Check if the array is sorted 
+/* 
+    Logic: 
+        Run a loop on the array from 1
+        Check if arr[1] >= arr[0] and so on till the end, if true do nothing
+        else return false
+ */
 
 public class C_Check_if_array_is_sorted {
     public static void main(String[] args) {

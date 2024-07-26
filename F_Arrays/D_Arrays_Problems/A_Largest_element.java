@@ -1,4 +1,14 @@
 //! Find the smallest number in an array
+/* 
+    Logic 1: 
+        Sort the array in ascending order
+        then, the last element will be the largest
+
+    Logic 2:
+        Take first element as the largest 
+        now iterate the whole array by comparing if greater element is found
+        If greater element is found update the largest to that element.
+ */
 
 public class A_Largest_element {
     public static void main(String[] args) {

@@ -1,4 +1,14 @@
 //! Find the second largest element in an array
+/* 
+    Logic: 
+        Find the largest elment of the array
+        Then, the second largest will be the largest-1 index.
+
+    Logic 2: 
+        Initially take the first element as the largest
+        now run loop to the whole array, and update the secondLargest and then the Largest.
+        So, the previous largest will be the secondLargest.
+ */
 
 public class B_Second_largest_element {
     public static void main(String[] args) {
