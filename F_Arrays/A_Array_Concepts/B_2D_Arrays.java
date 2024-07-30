@@ -1,5 +1,5 @@
 //! 2D-Arrays in Java.
-//? 2D-Arrays is matrix, having rows & columns. 
+//? 2D-Arrays is matrix, having rows & columns.
 
 import java.util.*;
 public class B_2D_Arrays {
@@ -11,8 +11,13 @@ public class B_2D_Arrays {
         int col = sc.nextInt();
 
         // Declare 2D Array
+        /* int arr2D[][] = {
+            {1, 2, 3},
+            {1, 2, 3},
+            {1, 2, 3},
+        }; */
         // type arr2D[][] = new int[row][col]
-        int arr2D[][] = new int[row][col];
+        // int arr2D[][] = new int[row][col];
 
         // Taking inputs in 2D-Array
         // outer loop for rows
