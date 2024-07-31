@@ -1,6 +1,20 @@
 //! Strings Methods.
 //? String methods are used for string manipulation. 
 
+//? Common String Methods:
+// 1. length(): Returns the length of the string.
+// 2. charAt(int index): Returns the character at the specified index.
+// 3. substring(int beginIndex): Returns a new string that is a substring of this string.
+// 4. substring(int beginIndex, int endIndex): Returns a new string that is a substring of this string.
+// 5. equals(Object anObject): Compares this string to the specified object.
+// 6. equalsIgnoreCase(String anotherString): Compares this string to another string, ignoring case considerations.
+// 7. compareTo(String anotherString): Compares two strings lexicographically.
+// 8. toLowerCase(): Converts all characters in the string to lower case.
+// 9. toUpperCase(): Converts all characters in the string to upper case.
+// 10. trim(): Returns a string whose value is this string, with any leading and trailing whitespace removed.
+// 11. replace(char oldChar, char newChar): Returns a string resulting from replacing all occurrences of oldChar in this string with newChar.
+// 12. contains(CharSequence s): Returns true if and only if this string contains the specified sequence of char values.
+
 import java.util.*;
 
 public class B_Strings_Methods {

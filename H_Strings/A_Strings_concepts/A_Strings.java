@@ -1,6 +1,23 @@
 //! Strings in Java.
-//? Strings are array of characters enclosed within single or double quotes.  
-//? Strings are immutable, once created cannot be modified, if we still want to modify string then we have to create a new string.
+//? Strings are sequence of characters enclosed within single or double quotes.  
+//? Each char of a String in Java is 2 bytes.
+//? Strings are immutable, once created it cannot be modified, if we still want to modify string then we have to create a new string.
+//? Java strings do not have a null character ('\0') at the end. The end of the string is determined by the length of the string.
+//? String Pool: A special memory area where Java stores unique string literals to save memory and improve performance.
+
+/* 
+    ? new String() :
+        In Java, using new String() creates a new instance of the String class, even if an identical string already exists in the string pool. 
+        Eg: 
+        String str = "Hello";
+        String str2 = new String("Hello");
+*/
+
+/* 
+    ? String Comparison :
+        ==       : Checks if two references point to the same memory location.
+        equals() : Checks if the contents of two objects are the same.
+*/
 
 import java.util.Scanner;
 

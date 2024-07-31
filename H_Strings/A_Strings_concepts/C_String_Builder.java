@@ -1,5 +1,9 @@
-//? String Builder in Java.
-//? It is used to make Strings mutable.
+//! String Builder in Java.
+//? Key Points:
+// - `StringBuilder` is mutable, allowing modification of String without creating new objects.
+// - It is more efficient for frequent modifications compared to immutable `String`.
+// - It has methods like `append()`, `insert()`, `delete()`, `replace()`, and `reverse()` for various operations.
+// - `StringBuilder` is not synchronized and thus not thread-safe. Use `StringBuffer` for thread-safe operations.
 
 public class C_String_Builder {
     public static void main(String[] args) {
