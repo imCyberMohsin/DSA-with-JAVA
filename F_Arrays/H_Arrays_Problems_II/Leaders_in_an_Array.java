@@ -26,7 +26,7 @@ public class Leaders_in_an_Array {
                 leaderList.add(arr[i]);
             }
         }
-        Collections.reverse(leaderList);
+        // Collections.reverse(leaderList);
         return leaderList;
     }
     //? Time complexity: O(n) 
