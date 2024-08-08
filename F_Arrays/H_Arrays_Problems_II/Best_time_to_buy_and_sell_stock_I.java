@@ -1,5 +1,6 @@
 //! Best time to buy and sell stock 
 // Code360: https://www.naukri.com/code360/problems/stocks-are-profitable_893405
+// Leetcode: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 
 import java.util.*;
 
