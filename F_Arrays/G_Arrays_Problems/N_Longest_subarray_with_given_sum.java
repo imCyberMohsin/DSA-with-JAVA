@@ -2,7 +2,7 @@
 // Link : https://www.naukri.com/code360/problems/longest-subarray-with-sum-k_6682399
 // Subarray = contigious part of array
 
-public class O_Longest_subarray_with_given_sum {
+public class N_Longest_subarray_with_given_sum {
     public static void main(String[] args) {
         int arr[] = { 1, 2, 3, 1, 1, 1, 1 };
         int n = arr.length;
